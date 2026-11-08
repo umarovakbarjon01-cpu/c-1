@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\bin\Debug\net10.0\wekk1.exe
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\bin\Debug\net10.0\wekk1.deps.json
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\bin\Debug\net10.0\wekk1.runtimeconfig.json
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\bin\Debug\net10.0\wekk1.dll
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\bin\Debug\net10.0\wekk1.pdb
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.dll
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\refint\wekk1.dll
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.pdb
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\ref\wekk1.dll
