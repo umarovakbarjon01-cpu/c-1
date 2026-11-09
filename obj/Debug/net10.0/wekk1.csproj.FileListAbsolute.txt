@@ -12,3 +12,4 @@ C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\re
 C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.pdb
 C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.genruntimeconfig.cache
 C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\ref\wekk1.dll
+C:\Users\arthu\OneDrive\Desktop\Новая папка\wekk1\obj\Debug\net10.0\wekk1.sourcelink.json

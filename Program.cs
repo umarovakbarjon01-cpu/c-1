@@ -132,8 +132,8 @@ void PrintStars(int n)
 //             {
 //                 Console.Write($" ");
 //             }
-        
-    
+
+
 //         PrintStars(n);
 //         void PrintStars (int ss)
 //         {
@@ -145,13 +145,198 @@ void PrintStars(int n)
 //         }
 //         Console.WriteLine();
 //     }
+// 
+
+//Hometask1
+
+//  int n =Convert.ToInt32(Console.ReadLine());
+
+
+// int EvenCount(int n)
+// {
+//     int rev=0;
+//     int c=0;
+//     for(int i=n; i>0; i/=10)
+//     {
+//         rev=rev*10;
+//         rev+=i%10;
+//     if(rev%2==0)
+//     {
+//         c++;
+//     }
+//     }
+//     return c;
+
 // }
+// int OddCount(int n)
+// {
+//     int rev=0;
+//     int c=0;
+//     for(int i=n; i>0; i/=10)
+//     {
+//         rev=rev*10;
+//         rev+=i%10;
+//     if(rev%2!=0)
+//     {
+//         c++;
+//     }
+//     }
+//     return c;
+
+// }
+// int DigitCount(int n)
+// {
+//     int rev=0;
+//     int c=0;
+//     for(int i=n; i>0; i/=10)
+//     {
+//         rev=rev*10;
+//         rev+=i%10;  
+//         c++;
+//     }
+//     return c;
+
+// }
+// int SumDigit(int n)
+
+// {
+//     int rev=0;
+//     for(int i=n; i>0; i/=10)
+//     {
+//         rev+=i%10;
+//     }
+//     return rev;
+
+// }
+// int a1=EvenCount(n);
+// Console.WriteLine($"Even:{a1}");
+// int a2=OddCount(n);
+// Console.WriteLine($"Odd:{a2}");
+// int a3=DigitCount(n);
+// Console.WriteLine($"Digit:{a3}");
+// int a4=SumDigit(n);
+// Console.WriteLine($"Sum:{a4}");
 
 
+//Hometask2
+
+//  int a =Convert.ToInt32(Console.ReadLine());
+//  int b =Convert.ToInt32(Console.ReadLine());
+
+//  int Add(int a, int b)
+// { 
+//    int a1=0;
+//    a1=a+b;
+//    return a1; 
+// }
+// int Subtract (int a, int b)
+
+// { 
+//    int a2=0;
+//    a2=a-b;
+//    return a2; 
+// }
+// int Multiply (int a, int b)
+
+// { 
+//    int a3=0;
+//    a3=a*b;
+//    return a3; 
+// }
+// int Division (int a, int b)
+
+// { 
+//    int a4=0;
+//    a4=a/b;
+//    return a4; 
+// }
+// int a1=Add(a,b);
+// Console.WriteLine($"Add:{a1}");
+// int a2=Subtract(a,b);
+// Console.WriteLine($"Subtract:{a2}");
+// int a3=Multiply(a,b);
+// Console.WriteLine($"Multiply:{a3}");
+// int a4=Division(a,b);
+// Console.WriteLine($"Division:{a4}");
+
+//Hometask3
+
+//  int n =Convert.ToInt32(Console.ReadLine());
+//  int MaxDigit (int n)
+ 
+
+// {
+//     int rev=0;
+//      int c=0;
+//     for(int i=n; i>0; i/=10)
+//      {
+//          rev=i%10;
+//       if(rev>c)
+//      {
+//        c=rev;
+//      }
+//      }  
+//        return c;
+    
+// }
+// int MinDigit (int n)
+// {
+
+//     int nev=0;
+//      int w=9;
+//     for(int i=n; i>0; i/=10)
+//      {
+//          nev=i%10;
+//       if(nev<w)
+//      {
+//        w=nev;
+//      }
+//      }  
+//        return w;
+// }
+// int Sum(int c, int w)
+// {
+//     return c+w;
+// }
+//  int c=MaxDigit(n);
+//  Console.WriteLine($"Max:{c}");
+//   int w=MinDigit(n);
+//  Console.WriteLine($"Min:{w}");
+// int a1 = Sum(c,w);
+//  Console.WriteLine($"{c} + {w} = {a1}");
+ 
+//Hometask4
+
+// int a =Convert.ToInt32(Console.ReadLine());
+// int b =Convert.ToInt32(Console.ReadLine());
+
+// int Pow(int x, int y)
+// {
+// int a1=1;
+//     for(int i=0; i<y; i++)
+//     {
+//         a1*=x;
+//     }
+//     return a1;
+// }
+//      int a2=Pow(a,b);
+//     Console.WriteLine(a2);
 
 
+//Hometask5
 
 
+//  int a =Convert.ToInt32(Console.ReadLine());
+//  int b =Convert.ToInt32(Console.ReadLine());
 
+//  Swap(ref a, ref b);
 
-
+//   void Swap(ref int a, ref int b)
+// {
+//     int a1;
+//     a1=a;
+//     a=b;
+//     b=a1;
+//     Console.WriteLine(a);
+//     Console.WriteLine(b);
+// }
